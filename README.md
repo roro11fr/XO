@@ -1,2 +1,2 @@
 # XO
-project guess the button (the winning button is chosen randomly)
+project TIC TAC TOE 2 manual players
